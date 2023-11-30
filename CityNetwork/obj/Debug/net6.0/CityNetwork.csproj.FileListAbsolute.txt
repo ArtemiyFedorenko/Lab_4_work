@@ -1,0 +1,14 @@
+D:\codes\work\second\ThirdApp\CityNetwork\bin\Debug\net6.0\CityNetwork.exe
+D:\codes\work\second\ThirdApp\CityNetwork\bin\Debug\net6.0\CityNetwork.deps.json
+D:\codes\work\second\ThirdApp\CityNetwork\bin\Debug\net6.0\CityNetwork.runtimeconfig.json
+D:\codes\work\second\ThirdApp\CityNetwork\bin\Debug\net6.0\CityNetwork.dll
+D:\codes\work\second\ThirdApp\CityNetwork\bin\Debug\net6.0\CityNetwork.pdb
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\CityNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\CityNetwork.AssemblyInfoInputs.cache
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\CityNetwork.AssemblyInfo.cs
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\CityNetwork.csproj.CoreCompileInputs.cache
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\CityNetwork.dll
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\refint\CityNetwork.dll
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\CityNetwork.pdb
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\CityNetwork.genruntimeconfig.cache
+D:\codes\work\second\ThirdApp\CityNetwork\obj\Debug\net6.0\ref\CityNetwork.dll
